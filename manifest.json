@@ -1,0 +1,18 @@
+{
+  "manifest_version"：2，
+  "name":"add header",
+  "version":"1.0",
+  "permissiongs":{
+     "activeTab",
+     "contextMenus",
+     "clipboardWrite"
+  },
+  "icons":{
+     "48":"icons/1.png",
+     "36":"icons/1.png",
+  }
+  "background":{
+     "scripts":["backgroud.js"]
+  }
+ 
+}
